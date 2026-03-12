@@ -11,4 +11,4 @@ Projects I'm working on,
 
 ---
 
-![Spotify](https://lastplayed.vercel.app)
+<img src="https://lastplayed.vercel.app" width="400" />
